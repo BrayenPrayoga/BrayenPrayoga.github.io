@@ -1058,7 +1058,8 @@ article {
 }
 
 article img:first-child {
-  width: 100%;
+  width: 90%;
+  margin-left:20px;
   box-shadow: 0px 10px 15px -3px rgba(233, 233, 233, 0.5);
   border-radius: 8px;
   object-fit: cover;
@@ -1067,8 +1068,8 @@ article img:first-child {
 
 article img:last-child {
   position: absolute;
-  width: 115%;
-  left: -25px;
+  width: 110%;
+  left: -15px;
   right: 0;
   bottom: 86px;
   margin: auto;
